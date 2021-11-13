@@ -21,7 +21,9 @@ readme_from 'bin/images2djvu';
 recursive_author_tests('xt');
 requires 'Class::Utils' => 0;
 requires 'Error::Pure' => 0;
+requires 'File::Basename' => 0;
 requires 'Getopt::Std' => 0;
+requires 'Perl6::Slurp' => 0;
 resources 'bugtracker' => 'https://github.com/michal-josef-spacek/App-Images-To-DjVu/issues',
 resources 'homepage' => 'https://github.com/michal-josef-spacek/App-Images-To-DjVu';
 resources 'repository' => 'git://github.com/michal-josef-spacek/App-Images-To-DjVu';
