@@ -2,7 +2,9 @@ TODO
 ====
 2. Add -v option (calling commands)
 3. Tests.
-4.
+4. Fix dependency for DjVuLibre
+5. Improve doc for information about possible encoders.
+6.
 
 Applied
 =======
