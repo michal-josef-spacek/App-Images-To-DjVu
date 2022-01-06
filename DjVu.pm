@@ -9,7 +9,7 @@ use File::Basename;
 use Getopt::Std;
 use Perl6::Slurp qw(slurp);
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 # Constructor.
 sub new {
@@ -183,6 +183,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.02
+0.03
 
 =cut
